@@ -1,0 +1,6 @@
+Notes
+
+Initial process functions
+1) Serialise the file, pick index field, then it creates a file 2 fields wide, with first field always being the index field
+2) Remove Fields (only for files were all records have the same number of fields)
+3) Write file as CSV
