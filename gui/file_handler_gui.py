@@ -29,3 +29,9 @@ class FileHGUI(object):
         root.geometry("500x500")
         my_gui = FileHGUI(root)
         root.mainloop()
+
+
+# root = Tk()
+# root.geometry("500x500")
+# my_gui = FileHGUI(root)
+# root.mainloop()
